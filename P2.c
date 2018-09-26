@@ -1,4 +1,4 @@
-/* p2.c */
+/* P2.c */
 /* Manoelson Moreira Rondon Junior */
 /* 11811EBI004 */
 #include <stdio.h>
